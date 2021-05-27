@@ -1,3 +1,6 @@
+# New PowerShell Version available
+[MKVCleanup-PowerShell](https://github.com/lavaground/MKVCleanup-PowerShell)
+
 # MKVCleanup
 
 Edit "PATH\TO\YOUR\CLEANUP\FOLDER" accordingly and have fun. :)
